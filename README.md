@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Ecommerce Project**
      
-<h3 align="left">Project</h3>
+<h3 align="left">Project: </h3>
 <h4><pre>  1.Supply Chain
   2.Banking Analytics</pre></h4>
 
