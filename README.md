@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on **Ecommerce Project**
      
 <h4 align="left">Project</h4>
-<h6><pre>  1.Supply Chain
-  2.Banking Analytics</pre>pre></h6>
+<h5><pre>  1.Supply Chain
+  2.Banking Analytics</pre></h5>
 
 - 📫 How to reach me **justchatwithkunal@gmail.com**            
 <p align="left">
