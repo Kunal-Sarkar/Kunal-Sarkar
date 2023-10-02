@@ -7,11 +7,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal-sarkar" alt="kunal-sarkar" /></a> </p>
 
 - 🔭 I’m currently working on **Ecommerce Project**
--     Project **
      
-<h3 align="left">Project</h3>
-            **1.Supply Chain **
-            **2.Banking Analytics **
+<h4 align="left">Project</h4>
+     <pre>  1.Supply Chain
+            2.Banking Analytics </pre>
 
 - 📫 How to reach me **justchatwithkunal@gmail.com**            
 <p align="left">
