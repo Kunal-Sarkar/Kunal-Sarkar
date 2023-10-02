@@ -1,4 +1,4 @@
-<img aling="right" alt="coding" width="1000" src="https://media.licdn.com/dms/image/D4E12AQGjj5-RGsWKfQ/article-cover_image-shrink_720_1280/0/1688039588859?e=2147483647&v=beta&t=Cu3MaNLXYqnb9zsWGS53ERgtxsgLvvuCK2ELyuX1Jx8">
+<img aling="right" alt="coding" width="700" src="https://media.licdn.com/dms/image/D4E12AQGjj5-RGsWKfQ/article-cover_image-shrink_720_1280/0/1688039588859?e=2147483647&v=beta&t=Cu3MaNLXYqnb9zsWGS53ERgtxsgLvvuCK2ELyuX1Jx8">
 <h1 align="center">Hi 👋, I'm Kunal Sarkar</h1>
 <h4 align="center">A Dedicated Data Analyst with a passion for transforming raw data into actionable insights. With a solid background in data analysis, statistical modeling, and data visualization, I specialize in uncovering trends, identifying opportunities, and driving informed decision-making.</h4>
 
