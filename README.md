@@ -10,7 +10,7 @@
      
 <h4 align="left">Project</h4>
      <pre>  1.Supply Chain
-            2.Banking Analytics </pre>
+       2.Banking Analytics </pre>
 
 - 📫 How to reach me **justchatwithkunal@gmail.com**            
 <p align="left">
