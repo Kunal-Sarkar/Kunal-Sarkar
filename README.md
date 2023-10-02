@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Ecommerce Project**
      
 <h4 align="left">Project</h4>
-     <pre><h6>  1.Supply Chain
+<pre><h6>  1.Supply Chain
   2.Banking Analytics</h6></pre>
 
 - 📫 How to reach me **justchatwithkunal@gmail.com**            
