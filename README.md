@@ -1,4 +1,4 @@
-<img aling="right" alt="coding" src="C:\Users\INTEL\Downloads\White Minimalist Corporate Personal Profile LinkedIn Banner.png">
+<img aling="right" alt="coding" src="https://miro.medium.com/v2/resize:fit:1400/1*g__jiesLRIfCRefVG69Pfw.gif">
 <h1 align="center">Hi 👋, I'm Kunal Sarkar</h1>
 <h4 align="center">A Dedicated Data Analyst with a passion for transforming raw data into actionable insights. With a solid background in data analysis, statistical modeling, and data visualization, I specialize in uncovering trends, identifying opportunities, and driving informed decision-making.</h4>
 
