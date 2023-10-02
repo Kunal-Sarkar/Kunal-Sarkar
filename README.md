@@ -1,4 +1,5 @@
-<img aling="right" alt="coding" src="C:\Users\INTEL\Downloads\New folder\mingw64\Analytcs.jpeg">
+<img aling="right" alt="coding" src="![Uploading image.png…]()
+">
 <h1 align="center">Hi 👋, I'm Kunal Sarkar</h1>
 <h4 align="center">A Dedicated Data Analyst with a passion for transforming raw data into actionable insights. With a solid background in data analysis, statistical modeling, and data visualization, I specialize in uncovering trends, identifying opportunities, and driving informed decision-making.</h4>
 
