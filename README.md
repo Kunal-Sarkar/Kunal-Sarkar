@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Sarkar</h1>
-<h3 align="center">A Dedicated Data Analyst with a passion for transforming raw data into actionable insights. With a solid background in data analysis, statistical modeling, and data visualization, I specialize in uncovering trends, identifying opportunities, and driving informed decision-making.</h3>
+<h4 align="center">A Dedicated Data Analyst with a passion for transforming raw data into actionable insights. With a solid background in data analysis, statistical modeling, and data visualization, I specialize in uncovering trends, identifying opportunities, and driving informed decision-making.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal-sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-sarkar" /> </p>
 
